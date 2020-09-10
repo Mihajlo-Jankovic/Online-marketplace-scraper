@@ -2,7 +2,7 @@
 
 ***About:***
 
-This is an online marketplace scraper, made to scrap the Serbian site "Kupujem-Prodajem", but with small modifications, it can be adapted to any online marketplace website such as: Amazon, eBay, AliExpress, etc. It is written in the Python programming language.
+This is an online marketplace scraper written in the Python programming language and made to scrap the Serbian website "Kupujem-Prodajem", but with small modifications, it can be adapted to any online marketplace website such as: Amazon, eBay, AliExpress, etc.
 
 ***How to run:***
 
